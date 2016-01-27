@@ -1,0 +1,58 @@
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 Microsoft.Internal.Web.Utils.DynamicHelper 生成存根: 类型已密封。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.ChartTheme 生成存根: 类型已密封。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.VirtualPathUtil 生成存根: 类型已密封。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.ConversionUtil 生成存根: 类型已密封。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.Crypto 生成存根: 类型已密封。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.DynamicJavaScriptConverter 生成存根: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.HtmlElement 生成存根: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.ObjectVisitor 生成存根: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.HtmlObjectPrinter 生成存根: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.Json 生成存根: 类型已密封。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.ObjectInfo 生成存根: 类型已密封。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebCache 生成存根: 类型已密封。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.ServerInfo 生成存根: 类型已密封。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.Resources.HelpersResources 生成存根: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.SortDirection 生成存根: 类型是一个值类型。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.IWebGridDataSource 生成存根: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.PreComputedGridDataSource 生成存根: 类型已密封。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.SortInfo 生成存根: 类型已密封。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebGridDataSource 生成存根: 类型已密封。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebGridPagerModes 生成存根: 类型是一个值类型。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebGridRenderer 生成存根: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebMail 生成存根: 类型已密封。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 <PrivateImplementationDetails>{633CEF55-640E-4107-8FB8-08A1DC283795} 生成存根: 类型不受支持，因为存在内部限制。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 Microsoft.Internal.Web.Utils.DynamicHelper 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.Chart+<>c__DisplayClass12 生成填充码: 类型不受支持，因为存在内部限制。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.Chart+<>c__DisplayClass9 生成填充码: 类型不受支持，因为存在内部限制。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.Chart+<>c__DisplayClassc 生成填充码: 类型不受支持，因为存在内部限制。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.Chart+<>c__DisplayClassf 生成填充码: 类型不受支持，因为存在内部限制。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.Chart+ChartAxisData 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.Chart+DataSourceData 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.Chart+LegendData 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.Chart+SeriesData 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.Chart+TitleData 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.VirtualPathUtil 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.ConversionUtil 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.DynamicJavaScriptConverter 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.DynamicJsonArray+<set_Item>o__SiteContainer0 生成填充码: 类型不受支持，因为存在内部限制。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.HtmlElement 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.ObjectVisitor 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.HtmlObjectPrinter 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.ObjectInfo+<>c__DisplayClass1 生成填充码: 类型不受支持，因为存在内部限制。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.Resources.HelpersResources 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.SortDirection 生成填充码: 类型是一个枚举。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.IWebGridDataSource 生成填充码: 类型是一个接口。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.PreComputedGridDataSource 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.SortInfo 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebGridDataSource 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebGrid+<>c__DisplayClass7 生成填充码: 类型不受支持，因为存在内部限制。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebGridPagerModes 生成填充码: 类型是一个枚举。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebGridRenderer 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebImage+CropTransformation 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebImage+ImageTransformation 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebImage+ResizeTransformation 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebImage+RotateTransformation 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebImage+WatermarkImageTransformation 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebImage+WatermarkTextTransformation 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 System.Web.Helpers.WebImage+WatermarkTransformation 生成填充码: 类型对 exported or assembly(System.Web.Helpers.Fakes) 不可见。
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\Fakes\System.Web.Helpers.fakes : warning : 无法为 <PrivateImplementationDetails>{633CEF55-640E-4107-8FB8-08A1DC283795} 生成填充码: 类型不受支持，因为存在内部限制。

@@ -1,0 +1,7 @@
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll.config
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.pdb
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\Microsoft.QualityTools.Testing.Fakes.dll
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.xml
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+F:\我的项目\MVC.net\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
